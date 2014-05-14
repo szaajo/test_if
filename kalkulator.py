@@ -1,6 +1,6 @@
-def dodawanie(a,b):
+def dodawanie():
     a=int(input('wprowadz pierwsza liczbe'))
     b=int(input('wprowadz druga liczbe'))
     print(a+b)
     
-kal=dodawanie(6,4)
+kal=dodawanie()
